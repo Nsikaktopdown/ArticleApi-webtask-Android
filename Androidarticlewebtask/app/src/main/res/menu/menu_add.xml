@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.add.AddArticleActivity">
+    <item
+        android:id="@+id/add_article"
+        android:orderInCategory="100"
+        android:title="@string/add"
+        app:showAsAction="always" />
+</menu>
